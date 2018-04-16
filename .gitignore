@@ -1,0 +1,26 @@
+# Exclude images
+*.jpg
+*.png
+*.zip
+*.rar
+*.7z
+
+# Exclude Rstudio
+*.Rhistory
+.Rhistory
+
+.Rapp.history
+
+*.RData
+.RData
+
+*.Rcheck
+.Rproj.user/
+
+
+# Exclude data folder
+/Data/*
+/.ipynb_checkpoints/*
+
+# Exclude data folder and files
+/Data/*.zip

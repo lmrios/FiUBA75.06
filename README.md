@@ -1,8 +1,8 @@
-﻿# Proyecto: Primer TP de 7506
+﻿# Proyecto: Primer TP del curso  75.06 FiUBA
 
-Comienzo de proyecto: 7 de enero 2018
+Comienzo de proyecto: 2 de abril 2018
 
-## Desarrolladores LO PIBE
+## Desarrolladores
   + Leandro Ríos
   + Mariano Vazquez
   + Luis Velazquez
@@ -11,4 +11,4 @@ Comienzo de proyecto: 7 de enero 2018
 
 ## Objetivo
 
-Analisis exploratorio de ZonaJob.
+Analisis exploratorio de ZonaJobs.
